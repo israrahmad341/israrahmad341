@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋, I'm Mohammad Asif</h1>
+<h1 align="center">Hey! 👋, I'm Israr Ahmad</h1>
 <h3 align="center">Software Developer from Delhi,India. I am interested in Backend, Frontend and Mobile Programming.</h3>
 <h4 align="center">My main language is Java and I develop backend projects using Spring Framework for 3+ years. Also, I am interested in Frontend technologies. Therefore, I am using JavaScript and React Framework to develop frontend projects.</h4>
 
@@ -8,7 +8,7 @@
 
 - 💻 My primary coding and problem-solving language: **Java**
 
-- 📫 How to reach me **mohammadasif2808@gmail.com**
+- 📫 How to reach me **ahmadisrar341@gmail.com**
 
 - ⚡ Fun fact **I adapt quickly**
 
