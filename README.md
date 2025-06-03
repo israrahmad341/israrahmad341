@@ -1,21 +1,51 @@
-<h1 align="center">Hey! 👋, I'm Israr Ahmad</h1>
-<h3 align="center">Software Developer from Delhi,India. I am interested in Backend, Frontend and Mobile Programming.</h3>
-<h4 align="center">My main language is Java and I develop backend projects using Spring Framework for 3+ years. Also, I am interested in Frontend technologies. Therefore, I am using JavaScript and React Framework to develop frontend projects.</h4>
+# 👋 Hi, I'm [Your Name]
 
-- 🌱 I’m currently learning **React, Angular and Spring Boot**
-  
-- 💬 Ask me about **Java, Angular, Android Studio, Kotlin**
+🎓 MCA Graduate | 📊 Aspiring Data Analyst | 📈 Passionate about Data-Driven Insights
 
-- 💻 My primary coding and problem-solving language: **Java**
+---
 
-- 📫 How to reach me **ahmadisrar341@gmail.com**
+## 🚀 About Me
 
-- ⚡ Fun fact **I adapt quickly**
+- 🎓 MCA graduate with hands-on experience in data analysis projects.
+- 🧠 Strong understanding of data cleaning, visualization, and storytelling.
+- 📊 Built a dashboard project in collaboration with peers and professors.
+- 🌱 Currently learning advanced Excel, Power BI, and Python for data analysis.
+- 📫 Reach me at: your.email@example.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohammad-asif-b8812911a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-asif-b8812911a" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## 💡 Skills
+
+- **Languages:** Python, SQL
+- **Tools:** Excel, Power BI, Tableau, Pandas, NumPy, Matplotlib, Seaborn
+- **Soft Skills:** Attention to detail, Collaboration, Communication
+
+---
+
+## 📂 Featured Projects
+
+### 📊 University Dashboard for Academic Insights  
+[🔗 View on GitHub](https://github.com/yourusername/university-dashboard)
+
+- Developed an interactive dashboard to visualize academic performance.
+- Used Python (Pandas, Matplotlib) and Excel for data handling and charting.
+- Improved decision-making by turning raw data into actionable insights.
+
+### 📈 Sales Data Analysis Project  
+[🔗 View on GitHub](https://github.com/yourusername/sales-data-analysis)
+
+- Cleaned and analyzed sales datasets using Python.
+- Generated reports showing trends, seasonality, and growth patterns.
+- Delivered visualizations using Power BI and Excel pivot tables.
+
+---
+
+## 🌐 Online Profiles
+
+- 🔗 [GitHub](https://github.com/israrahmad341)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/israr-ahmad341/)
+- 📧 ahmadisrar341@gmail.com
+
+---
+
+_"Without data, you're just another person with an opinion."_ – W. Edwards Deming
