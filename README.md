@@ -10,7 +10,7 @@
 - 🧠 Strong understanding of data cleaning, visualization, and storytelling.
 - 📊 Built a dashboard project in collaboration with peers and professors.
 - 🌱 Currently learning advanced Excel, Power BI, and Python for data analysis.
-- 📫 Reach me at: your.email@example.com
+- 📫 Reach me at: ahmadisrar341@gmail.com
 
 ---
 
