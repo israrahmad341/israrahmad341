@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Israr Ahmad]
+# 👋 Hi, I'm Israr Ahmad
 
 🎓 MCA Graduate | 📊 Aspiring Data Analyst | 📈 Passionate about Data-Driven Insights
 
