@@ -31,8 +31,8 @@ class IsrarAhmad:
         self.location    = "New Delhi, India 🇮🇳"
         self.education   = "MCA — Jamia Hamdard University"
         self.experience  = {
-            "Peltown"         : "Mar 2023 – May 2025 (2+ Years)",
-            "SpayIndia-Fintech": "Jun 2025 – Feb 2026 (8 Months)",
+            "Peltown"          : "Mar 2023 – May 2025  (2+ Years)",
+            "SpayIndia-Fintech": "Jun 2025 – Feb 2026  (8 Month Internship)",
         }
         self.skills      = {
             "Languages"   : ["Python (Pandas, NumPy, Tkinter)", "SQL"],
@@ -72,9 +72,9 @@ print(me.summary())
 ### 🏢 Data Analyst — SpayIndia-Fintech, New Delhi
 **📅 June 2025 – February 2026 &nbsp;`(8 Month Internship)`**
 
-- 🔹 **Engineered Automation Pipelines:** Deployed Python-driven reporting tools **(DI, Razor & 1K)** with Tkinter GUIs, eliminating manual data compilation errors and accelerating management reporting
-- 🔹 **Optimized Cloud & Database Workflows:** Designed complex SQL queries and managed **Amazon RDS** databases to aggregate multi-source payment gateway streams and track real-time metrics **(FTD/MTD/LMTD)**
-- 🔹 **Integrated GenAI & NLP Solutions:** Leveraged **LLMs & NLP** to parse unstructured communication streams, identify backend transaction trends, automate geographic performance mapping and created automation reconciliation tools
+- 🔹 **Engineered Automation Pipelines:** Deployed Python-driven reporting tools **(DI, Razor, Cash & 1K)** with Tkinter GUIs — performing daily outlet sheet updates, extracting live data from **Amazon RDS**, and distributing fully automated reports to Sales Heads via **WhatsApp & Email**, eliminating all manual compilation errors
+- 🔹 **Optimized Cloud & Database Workflows:** Designed complex SQL queries and managed **Amazon RDS** databases to aggregate multi-source payment gateway streams **(PG-2, PG-5, Cash & Card)**, track real-time metrics **(FTD/MTD/LMTD)**, and deliver on-demand **ASM-wise & retailer-level** business records to senior management
+- 🔹 **Integrated GenAI & NLP Solutions:** Leveraged **LLMs & NLP** to parse unstructured communication streams, identify backend transaction trends, automate geographic performance mapping, and build automated reconciliation tools
 
 ---
 
@@ -85,10 +85,11 @@ print(me.summary())
 | 🔧 Project | 📝 Description | 🛠️ Tech Stack | 📅 Date |
 |-----------|---------------|--------------|--------|
 | 🚴 Adventure Work Cycles | Interactive Power BI dashboard with advanced DAX queries & AI-powered quick measures for dynamic KPIs; integrated Excel sources via Power Query for data cleaning & dimensional modeling | Power BI, DAX, Power Query | Apr–May 2023 |
-| [📱 WhatsApp Report Automation](https://github.com/israrahmad341/whatsapp_report_generator) | Python utility using NLP to parse raw chat communication streams, generate operational analytics & export clear metrics to MySQL for data-driven team decisions | Python, NLP, MySQL, Pandas | Jun 2023 |
-| [📊 Python DI Report Tool](https://github.com/israrahmad341/Python_Di_Report_Tool) | AI-assisted distributor reporting system with multi-tab Excel automation, FTD/MTD/LMTD comparisons & geographic STATE HEAD mapping, eliminating all manual errors | Python, MySQL, Amazon RDS | Dec 2024 |
-| [💳 Razor Report Tool](https://github.com/israrahmad341/Cash_Report) | LLM & Prompt Engineering powered reconciliation utility aggregating PG-2 & PG-5 transaction streams, counting active merchants, flagging payment anomalies & exporting ASM-wise reports | Python, LLMs, MySQL, Amazon RDS | Mar 2025 |
-| 📈 1K Report Tool | Tkinter GUI integrated with Generative AI frameworks to identify & optimize backend transaction trends; computes real-time FTD/MTD metrics, applies ASM mapping & exports Excel reports via AI-optimized SQL | Python, GenAI, Amazon RDS | Nov 2025 |
+| [📱 WhatsApp Report Automation](https://github.com/israrahmad341/whatsapp_report_generator) | NLP-based Python utility to parse raw chat communication streams, generate operational analytics & export clear metrics to MySQL for data-driven team decisions | Python, NLP, MySQL, Pandas | Jul 2025 |
+| [📊 Python DI Report Tool](https://github.com/israrahmad341/Python_Di_Report_Tool) | AI-assisted distributor reporting system with multi-tab Excel automation, FTD/MTD/LMTD comparisons & geographic STATE HEAD mapping, eliminating all manual errors | Python, MySQL, Amazon RDS | Aug 2025 |
+| 💳 Razor Report Tool | LLM & Prompt Engineering powered reconciliation utility aggregating PG-2 & PG-5 transaction streams, counting active merchants, flagging payment anomalies & exporting ASM-wise reports | Python, LLMs, MySQL, Amazon RDS | Sep 2025 |
+| [💰 Cash Deposit Report Tool](https://github.com/israrahmad341/Cash_Report) | Automated cash deposit tracking tool filtering accepted Card & Cash transactions, merging ASM mapping, computing Achievement % & exporting dual-sheet styled Excel reports using OpenPyXL | Python, Pandas, OpenPyXL, Excel | Nov 2025 |
+| 📈 1K Report Tool | Tkinter GUI integrated with GenAI frameworks to identify backend transaction trends, compute real-time FTD/MTD metrics, apply ASM mapping & export Excel reports via AI-optimized SQL | Python, GenAI, Amazon RDS | Jan 2025 |
 
 </div>
 
@@ -171,7 +172,6 @@ print(me.summary())
 
 ## 📜 Certifications
 
-- 🏅 **Microsoft Power BI Desktop for Business Intelligence** — Udemy, Online Platform &nbsp;`Mar 2022`
 - 🏅 **Advanced Diploma of Computer Science** — APT Computer Society
 
 ---
