@@ -79,13 +79,13 @@ print(me.summary())
 
 <div align="center">
 
-| 🔧 Project | 📝 Description | 🛠️ Tech Stack | 📅 Year |
+| 🔧 Project | 📝 Description | 🛠️ Tech Stack | 📅 Date |
 |-----------|---------------|--------------|--------|
-| [📱 WhatsApp Report Automation](https://github.com/israrahmad341/whatsapp_report_generator) | NLP-based tool that parses WhatsApp chat streams and generates operational analytics, pushing metrics to MySQL | Python, NLP, MySQL, Pandas | 2023 |
-| [📊 Python DI Report Tool](https://github.com/israrahmad341/Python_Di_Report_Tool) | Automated distributor reporting with multi-tab Excel automation, FTD/MTD/LMTD comparisons & STATE HEAD mapping | Python, MySQL, Amazon RDS | 2024 |
-| [💳 Razor Report Tool](https://github.com/israrahmad341/Cash_Report) | LLM-powered reconciliation utility aggregating PG-2 & PG-5 transaction streams with ASM-wise performance reports | Python, LLMs, MySQL, Amazon RDS | 2025 |
-| 📈 1K Report Tool | Tkinter GUI tool integrated with GenAI to identify backend transaction trends, compute FTD/MTD, and export Excel reports | Python, GenAI, Amazon RDS | 2025 |
-| 🚴 Adventure Work Cycles | Interactive Power BI dashboard with advanced DAX measures, AI quick insights & Power Query data modeling | Power BI, DAX, Power Query | 2023 |
+| 🚴 Adventure Work Cycles | Interactive Power BI dashboard with advanced DAX queries, AI-powered quick measures & Power Query data modeling for dynamic KPIs | Power BI, DAX, Power Query | Apr–May 2023 |
+| [📱 WhatsApp Report Automation](https://github.com/israrahmad341/whatsapp_report_generator) | NLP-based Python utility to parse raw WhatsApp chat streams, generate operational analytics and export metrics to MySQL | Python, NLP, MySQL, Pandas | Jun 2023 |
+| [📊 Python DI Report Tool](https://github.com/israrahmad341/Python_Di_Report_Tool) | Automated distributor reporting with multi-tab Excel automation, FTD/MTD/LMTD comparisons & geographic STATE HEAD mapping | Python, MySQL, Amazon RDS | Dec 2024 |
+| [💳 Razor Report Tool](https://github.com/israrahmad341/Cash_Report) | LLM & Prompt Engineering powered reconciliation utility aggregating PG-2 & PG-5 streams with ASM-wise performance reports | Python, LLMs, MySQL, Amazon RDS | Mar 2025 |
+| 📈 1K Report Tool | Tkinter GUI integrated with GenAI frameworks to identify backend transaction trends, compute FTD/MTD metrics and export Excel reports via AI-optimized SQL | Python, GenAI, Amazon RDS | Nov 2025 |
 
 </div>
 
@@ -163,7 +163,7 @@ print(me.summary())
 
 ## 📜 Certifications
 
-- 🏅 **Microsoft Power BI Desktop for Business Intelligence** — Udemy
+- 🏅 **Microsoft Power BI Desktop for Business Intelligence** — Udemy, Online Platform &nbsp;`Mar 2022`
 - 🏅 **Advanced Diploma of Computer Science** — APT Computer Society
 
 ---
