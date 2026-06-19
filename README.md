@@ -176,6 +176,18 @@ print(me.summary())
 
 ---
 
+## 🏆 Awards & Achievements
+
+### 🌟 Data Analyst Award — SpayIndia-Fintech
+*Recognized for outstanding contribution in automating reporting pipelines and driving data analytics.*
+
+> **Note:** To display your award picture here, upload your picture (e.g., `award.jpg`) to this repository, and replace the link below with the name of your file!
+
+<!-- Replace "award.jpg" with the actual name of your uploaded image file -->
+<img src="award.jpg" alt="SpayIndia Data Analyst Award" width="500"/>
+
+---
+
 ## 💡 What I Bring to the Table
 
 ```
