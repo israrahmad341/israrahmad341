@@ -60,18 +60,18 @@ print(me.summary())
 ### 🏢 Data Analyst — Peltown, Ghaziabad
 **📅 March 2023 – Present (3 Years)**
 
-- 🔹 Developed **Python automation tools** and utilized **AWS RDS** databases to streamline business reporting
-- 🔹 Managed **CRM ticket assignments** and automated data pipelines for senior management
-- 🔹 Engineered workflows to distribute business reports via **WhatsApp & Email** automatically
+- 🔹 Three-year experience focused on **business data automation and MIS reporting**
+- 🔹 Developed **Python automation tools** and utilized **AWS RDS** databases to streamline business reporting and manage **CRM ticket assignments**
+- 🔹 Engineered automated workflows to generate and distribute business reports to senior management via **WhatsApp & Email**
 
 ---
 
-### 🏢 Data Analyst Intern — SpayIndia, New Delhi
-**📅 March 2023 – November 2023 (8 Months)**
+### 🏢 Data Analyst — SpayIndia-Fintech, New Delhi
+**📅 June 2025 – (8 Month Internship)**
 
-- 🔹 **Automation Pipelines:** Deployed Python-driven reporting tools (DI, Razor, 1K) with **Tkinter GUIs**, eliminating manual data compilation errors
+- 🔹 **Automation Pipelines:** Deployed Python-driven reporting tools (DI, Razor, 1K) with **Tkinter GUIs**, eliminating manual data compilation errors and accelerating management reporting
 - 🔹 **Cloud & DB Optimization:** Designed complex SQL queries and managed **Amazon RDS** to aggregate multi-source payment gateway streams and track real-time metrics (FTD/MTD/LMTD)
-- 🔹 **GenAI & NLP Integration:** Leveraged **LLMs & NLP** to parse unstructured communication streams, automate geographic performance mapping and built reconciliation tools
+- 🔹 **GenAI & NLP Integration:** Leveraged **LLMs & NLP** to parse unstructured communication streams, identify backend transaction trends, automate geographic performance mapping and built reconciliation tools
 
 ---
 
