@@ -4,14 +4,14 @@
 
 ### 🎓 MCA Graduate &nbsp;|&nbsp; 📊 Data Analyst &nbsp;|&nbsp; 🤖 AI Automation Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=3%2B+Years+of+Data+Analytics+%26+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI+%7C+Amazon+RDS;GenAI+%26+LLM+Integration+Specialist;Building+Smart+Automation+Tools+%F0%9F%9A%80;Available+to+Join+Immediately+%E2%9C%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Data+Analyst+%26+AI+Automation+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Amazon+RDS;GenAI+%26+LLM+Integration+Specialist;2%2B+Years+at+Peltown+%2B+8+Months+at+SpayIndia-Fintech;Available+to+Join+Immediately+%E2%9C%85" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/israrahmad341)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadisrar341@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/israrahmad341)
-[![Phone](https://img.shields.io/badge/Call-+91--8920181756-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918920181756)
+[![Phone](https://img.shields.io/badge/WhatsApp-+91--8920181756-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918920181756)
 
 📍 New Delhi, India &nbsp;|&nbsp; ✅ Available to Join Immediately
 
@@ -28,25 +28,28 @@ class IsrarAhmad:
     def __init__(self):
         self.name        = "Israr Ahmad"
         self.role        = ["Data Analyst", "AI Automation Engineer"]
-        self.experience  = "3+ Years"
         self.location    = "New Delhi, India 🇮🇳"
         self.education   = "MCA — Jamia Hamdard University"
-        self.skills      = {
-            "Languages"  : ["Python", "SQL", "Advanced Excel"],
-            "Libraries"  : ["Pandas", "NumPy", "Tkinter"],
-            "AI & ML"    : ["GenAI", "LLMs", "Prompt Engineering", "NLP"],
-            "Cloud & DB" : ["Amazon RDS (AWS)", "MySQL", "SSMS", "ETL"],
-            "BI Tools"   : ["Power BI", "DAX", "Data Modeling"],
+        self.experience  = {
+            "Peltown"         : "Mar 2023 – May 2025 (2+ Years)",
+            "SpayIndia-Fintech": "Jun 2025 – Feb 2026 (8 Months)",
         }
-        self.current     = ["Peltown, Ghaziabad — Data Analyst"]
+        self.skills      = {
+            "Languages"   : ["Python (Pandas, NumPy, Tkinter)", "SQL"],
+            "AI & GenAI"  : ["Generative AI", "LLM Integration", "Prompt Engineering", "NLP"],
+            "Cloud & DB"  : ["Amazon RDS (AWS)", "MySQL", "SSMS", "ETL Development"],
+            "BI Reporting": ["Power BI", "DAX Queries", "Advanced Excel", "MIS Reporting"],
+        }
         self.open_to     = "Full-time Data Analyst / BI / AI Automation roles"
 
     def summary(self):
         return """
         Results-driven Data Analyst & AI Automation Engineer with 3+ years of experience
-        in business intelligence, automated reporting, and scalable data pipelines.
-        Experienced in designing Amazon RDS cloud databases, integrating Generative AI APIs,
-        and deploying dynamic dashboards to drive data-backed leadership decisions.
+        specializing in business intelligence, automated reporting & scalable data pipelines.
+        Proficient in Python, Power BI, advanced SQL, and Excel.
+        Experienced in Amazon RDS cloud databases, Generative AI APIs integration,
+        and deploying dynamic dashboards for data-backed leadership decisions.
+        Available to join immediately. ✅
         """
 
 me = IsrarAhmad()
@@ -58,20 +61,20 @@ print(me.summary())
 ## 💼 Work Experience
 
 ### 🏢 Data Analyst — Peltown, Ghaziabad
-**📅 March 2023 – Present (3 Years)**
+**📅 March 2023 – May 2025 &nbsp;`(2+ Years)`**
 
-- 🔹 Three-year experience focused on **business data automation and MIS reporting**
+- 🔹 Focused on **business data automation and MIS reporting** across the organization
 - 🔹 Developed **Python automation tools** and utilized **AWS RDS** databases to streamline business reporting and manage **CRM ticket assignments**
-- 🔹 Engineered automated workflows to generate and distribute business reports to senior management via **WhatsApp & Email**
+- 🔹 Engineered automated workflows to generate and distribute business reports to senior management seamlessly via **WhatsApp & Email**
 
 ---
 
 ### 🏢 Data Analyst — SpayIndia-Fintech, New Delhi
-**📅 June 2025 – (8 Month Internship)**
+**📅 June 2025 – February 2026 &nbsp;`(8 Month Internship)`**
 
-- 🔹 **Automation Pipelines:** Deployed Python-driven reporting tools (DI, Razor, 1K) with **Tkinter GUIs**, eliminating manual data compilation errors and accelerating management reporting
-- 🔹 **Cloud & DB Optimization:** Designed complex SQL queries and managed **Amazon RDS** to aggregate multi-source payment gateway streams and track real-time metrics (FTD/MTD/LMTD)
-- 🔹 **GenAI & NLP Integration:** Leveraged **LLMs & NLP** to parse unstructured communication streams, identify backend transaction trends, automate geographic performance mapping and built reconciliation tools
+- 🔹 **Engineered Automation Pipelines:** Deployed Python-driven reporting tools **(DI, Razor & 1K)** with Tkinter GUIs, eliminating manual data compilation errors and accelerating management reporting
+- 🔹 **Optimized Cloud & Database Workflows:** Designed complex SQL queries and managed **Amazon RDS** databases to aggregate multi-source payment gateway streams and track real-time metrics **(FTD/MTD/LMTD)**
+- 🔹 **Integrated GenAI & NLP Solutions:** Leveraged **LLMs & NLP** to parse unstructured communication streams, identify backend transaction trends, automate geographic performance mapping and created automation reconciliation tools
 
 ---
 
@@ -81,11 +84,11 @@ print(me.summary())
 
 | 🔧 Project | 📝 Description | 🛠️ Tech Stack | 📅 Date |
 |-----------|---------------|--------------|--------|
-| 🚴 Adventure Work Cycles | Interactive Power BI dashboard with advanced DAX queries, AI-powered quick measures & Power Query data modeling for dynamic KPIs | Power BI, DAX, Power Query | Apr–May 2023 |
-| [📱 WhatsApp Report Automation](https://github.com/israrahmad341/whatsapp_report_generator) | NLP-based Python utility to parse raw WhatsApp chat streams, generate operational analytics and export metrics to MySQL | Python, NLP, MySQL, Pandas | Jun 2023 |
-| [📊 Python DI Report Tool](https://github.com/israrahmad341/Python_Di_Report_Tool) | Automated distributor reporting with multi-tab Excel automation, FTD/MTD/LMTD comparisons & geographic STATE HEAD mapping | Python, MySQL, Amazon RDS | Dec 2024 |
-| [💳 Razor Report Tool](https://github.com/israrahmad341/Cash_Report) | LLM & Prompt Engineering powered reconciliation utility aggregating PG-2 & PG-5 streams with ASM-wise performance reports | Python, LLMs, MySQL, Amazon RDS | Mar 2025 |
-| 📈 1K Report Tool | Tkinter GUI integrated with GenAI frameworks to identify backend transaction trends, compute FTD/MTD metrics and export Excel reports via AI-optimized SQL | Python, GenAI, Amazon RDS | Nov 2025 |
+| 🚴 Adventure Work Cycles | Interactive Power BI dashboard with advanced DAX queries & AI-powered quick measures for dynamic KPIs; integrated Excel sources via Power Query for data cleaning & dimensional modeling | Power BI, DAX, Power Query | Apr–May 2023 |
+| [📱 WhatsApp Report Automation](https://github.com/israrahmad341/whatsapp_report_generator) | Python utility using NLP to parse raw chat communication streams, generate operational analytics & export clear metrics to MySQL for data-driven team decisions | Python, NLP, MySQL, Pandas | Jun 2023 |
+| [📊 Python DI Report Tool](https://github.com/israrahmad341/Python_Di_Report_Tool) | AI-assisted distributor reporting system with multi-tab Excel automation, FTD/MTD/LMTD comparisons & geographic STATE HEAD mapping, eliminating all manual errors | Python, MySQL, Amazon RDS | Dec 2024 |
+| [💳 Razor Report Tool](https://github.com/israrahmad341/Cash_Report) | LLM & Prompt Engineering powered reconciliation utility aggregating PG-2 & PG-5 transaction streams, counting active merchants, flagging payment anomalies & exporting ASM-wise reports | Python, LLMs, MySQL, Amazon RDS | Mar 2025 |
+| 📈 1K Report Tool | Tkinter GUI integrated with Generative AI frameworks to identify & optimize backend transaction trends; computes real-time FTD/MTD metrics, applies ASM mapping & exports Excel reports via AI-optimized SQL | Python, GenAI, Amazon RDS | Nov 2025 |
 
 </div>
 
@@ -97,15 +100,15 @@ print(me.summary())
 
 ### 🐍 Languages & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### 📊 Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter_GUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🤖 AI & GenAI
+![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Integration-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00897B?style=for-the-badge&logo=python&logoColor=white)
 
 ### ☁️ Cloud & Databases
 ![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -113,11 +116,16 @@ print(me.summary())
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🧰 Tools & Frameworks
-![Tkinter](https://img.shields.io/badge/Tkinter_GUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 📊 BI & Reporting
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 </div>
 
@@ -171,7 +179,7 @@ print(me.summary())
 ## 💡 What I Bring to the Table
 
 ```
-📥 Raw Data   →   🧹 ETL & Cleaning   →   ☁️ Cloud DB (Amazon RDS)   →   📊 BI Dashboards   →   🤖 AI Automation   →   💡 Insights
+📥 Raw Data  →  🧹 ETL & Cleaning  →  ☁️ Amazon RDS  →  📊 Power BI Dashboards  →  🤖 GenAI Automation  →  💡 Insights
 ```
 
 - ⚙️ Build **end-to-end automated reporting pipelines** using Python + AWS RDS
@@ -179,6 +187,7 @@ print(me.summary())
 - 📊 Design **Power BI dashboards** with advanced DAX for leadership decisions
 - 💬 Automate **WhatsApp & Email report delivery** to senior management
 - 🔍 Perform **FTD/MTD/LMTD** business metric analysis at scale
+- 🛠️ Develop **Tkinter GUI tools** for non-technical business users
 
 ---
 
