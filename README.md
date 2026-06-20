@@ -90,7 +90,7 @@ print(me.summary())
 | [📊 Python DI Report Tool](https://github.com/israrahmad341/Python_Di_Report_Tool) | AI-assisted distributor reporting system with multi-tab Excel automation, FTD/MTD/LMTD comparisons & geographic STATE HEAD mapping, eliminating all manual errors | Python, MySQL, Amazon RDS | Aug 2025 |
 | [💳 Razor Report Tool](https://github.com/israrahmad341/Razor_Report_Tool) | LLM & Prompt Engineering powered reconciliation utility aggregating PG-2 & PG-5 transaction streams, counting active merchants, flagging payment anomalies & exporting ASM-wise reports | Python, LLMs, MySQL, Amazon RDS | Sep 2025 |
 | [💰 Cash Deposit Report Tool](https://github.com/israrahmad341/Cash_Report) | Automated cash deposit tracking tool filtering accepted Card & Cash transactions, merging ASM mapping, computing Achievement % & exporting dual-sheet styled Excel reports using OpenPyXL | Python, Pandas, OpenPyXL, Excel | Nov 2025 |
-| 📈 1K Report Tool | Tkinter GUI integrated with GenAI frameworks to identify backend transaction trends, compute real-time FTD/MTD metrics, apply ASM mapping & export Excel reports via AI-optimized SQL | Python, GenAI, Amazon RDS | Jan 2025 |
+| 📈 1K Report Tool | Tkinter GUI integrated with GenAI frameworks to identify backend transaction trends, compute real-time FTD/MTD metrics, apply ASM mapping & export Excel reports via AI-optimized SQL | Python, GenAI, Amazon RDS | Jan 2026 |
 
 </div>
 
