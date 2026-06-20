@@ -150,18 +150,6 @@ print(me.summary())
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=israrahmad341&theme=tokyonight&margin-w=15" alt="GitHub Trophies" />
-</a>
-
-</div>
-
----
-
 ## 🎓 Education
 
 | 🎓 Degree | 🏫 Institution | 📅 Year |
