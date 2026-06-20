@@ -154,7 +154,9 @@ print(me.summary())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=israrahmad341&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=israrahmad341&theme=tokyonight&margin-w=15" alt="GitHub Trophies" />
+</a>
 
 </div>
 
