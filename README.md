@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Israr Ahmad
 
-### 🎓 MCA Graduate &nbsp;|&nbsp; 📊 Data Analyst &nbsp;|&nbsp; 🤖 AI Automation Engineer
+### 🎓 MCA Graduate &nbsp;|&nbsp; 🏆 Award-Winning Data Analyst &nbsp;|&nbsp; 🤖 AI Automation Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Data+Analyst+%26+AI+Automation+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Amazon+RDS;GenAI+%26+LLM+Integration+Specialist;2%2B+Years+at+Peltown+%2B+8+Months+at+SpayIndia-Fintech;Available+to+Join+Immediately+%E2%9C%85" alt="Typing SVG" />
 
@@ -13,7 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/israrahmad341)
 [![Phone](https://img.shields.io/badge/WhatsApp-+91--8920181756-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918920181756)
 
-📍 New Delhi, India &nbsp;|&nbsp; ✅ Available to Join Immediately
+📍 New Delhi, India &nbsp;|&nbsp; 🏆 Award-Winning Data Analyst &nbsp;|&nbsp; ✅ Available to Join Immediately
 
 ![Profile Views](https://komarev.com/ghpvc/?username=israrahmad341&label=Profile+Views&color=00B4D8&style=flat)
 
@@ -34,6 +34,7 @@ class IsrarAhmad:
             "Peltown"          : "Mar 2023 – May 2025  (2+ Years)",
             "SpayIndia-Fintech": "Jun 2025 – Feb 2026  (8 Month Internship)",
         }
+        self.achievements= ["🏆 Data Analyst Award — SpayIndia-Fintech"]
         self.skills      = {
             "Languages"   : ["Python (Pandas, NumPy, Tkinter)", "SQL"],
             "AI & GenAI"  : ["Generative AI", "LLM Integration", "Prompt Engineering", "NLP"],
