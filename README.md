@@ -184,7 +184,7 @@ print(me.summary())
 > **Note:** To display your award picture here, upload your picture (e.g., `award.jpg`) to this repository, and replace the link below with the name of your file!
 
 <!-- Replace "award.jpg" with the actual name of your uploaded image file -->
-<img src="award.jpg" alt="SpayIndia Data Analyst Award" width="500"/>
+<img src="Data_Analyst_Award.jpeg" alt="SpayIndia Data Analyst Award" width="500"/>
 
 ---
 
