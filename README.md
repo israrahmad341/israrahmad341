@@ -45,7 +45,7 @@ class IsrarAhmad:
 
     def summary(self):
         return """
-        Results-driven Data Analyst & AI Automation Engineer with 3+ years of experience
+        Results-driven Data Analyst & AI Automation Engineer with 2+ years of experience
         specializing in business intelligence, automated reporting & scalable data pipelines.
         Proficient in Python, Power BI, advanced SQL, and Excel.
         Experienced in Amazon RDS cloud databases, Generative AI APIs integration,
